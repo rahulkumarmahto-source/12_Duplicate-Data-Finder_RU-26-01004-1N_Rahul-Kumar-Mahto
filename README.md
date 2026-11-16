@@ -1,7 +1,4 @@
-# Duplicate Data Finder
-
-**PS No. 12** | Rungta International Skills University
-B.Tech Computer Science and Engineering, First Semester
+# Duplicate data finder 
 
 A console tool written in Python 3 that reads a text file with one entry per line, finds duplicate entries, reports how many times each one repeats, and saves the unique entries to a new file.
 
